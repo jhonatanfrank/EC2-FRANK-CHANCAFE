@@ -1,0 +1,2 @@
+INSERT INTO `ec02`.`usuario` (`password`, `rol`, `usuario`) VALUES ('123', 'ADMIN', 'frank');
+INSERT INTO `ec02`.`usuario` (`password`, `rol`, `usuario`) VALUES ('1234', 'ADMIN', 'carlos');
